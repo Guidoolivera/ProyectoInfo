@@ -1,0 +1,2 @@
+virtualenv==20.10.0
+django==4.2.2
